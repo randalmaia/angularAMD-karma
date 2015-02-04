@@ -22,7 +22,7 @@
     }
 
     require.config({
-        baseUrl: '/base/www/js',
+        baseUrl: '/base/',
 
         paths: {
             'angular': 'lib/angular/angular',
